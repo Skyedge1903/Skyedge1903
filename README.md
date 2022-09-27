@@ -3,6 +3,8 @@
 
 #### ❤️ Complex algorithmic problems and optimization
 
+#### ✉️ : clement.girard@webanimus.com
+
 # 💻 Tech Stack:
 
 ### LANGUAGES
