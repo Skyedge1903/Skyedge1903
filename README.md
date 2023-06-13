@@ -23,3 +23,12 @@
 
 ### OTHER
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  <img src="https://img.shields.io/badge/electronique-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" /> ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+### LINKS
+
+A complex project based on geographical data : http://geomapi.webanimus.com/
+A Ethereum course : https://www.crypto.webanimus.com/
+An electronic Ethereum node viewer : https://www.etsy.com/fr/listing/1356321652/visualiseur-de-portefeuille-crypto
+Code-based 3D object generation : https://www.leboncoin.fr/materiel_agricole/2357730097.htm
+A Quantum course : https://www.quantum.webanimus.com/
+LinkedIn : https://www.linkedin.com/in/clement-girard-page
