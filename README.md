@@ -5,7 +5,7 @@
 
 #### ✉️ : clement.girard@webanimus.com
 
-<a href="https://www.linkedin.com/in/cl%C3%A9ment-girard-43aa4a1b2/" target="_blank">
+<a href="https://www.linkedin.com/in/clement-girard-page" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
@@ -35,5 +35,3 @@ An electronic Ethereum node viewer : https://www.etsy.com/fr/listing/1356321652/
 Code-based 3D object generation : https://www.leboncoin.fr/materiel_agricole/2357730097.htm
 
 A Quantum course : https://www.quantum.webanimus.com/
-
-LinkedIn : https://www.linkedin.com/in/clement-girard-page
