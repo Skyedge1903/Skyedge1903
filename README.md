@@ -27,8 +27,13 @@
 ### LINKS
 
 A complex project based on geographical data : http://geomapi.webanimus.com/
+
 A Ethereum course : https://www.crypto.webanimus.com/
+
 An electronic Ethereum node viewer : https://www.etsy.com/fr/listing/1356321652/visualiseur-de-portefeuille-crypto
+
 Code-based 3D object generation : https://www.leboncoin.fr/materiel_agricole/2357730097.htm
+
 A Quantum course : https://www.quantum.webanimus.com/
+
 LinkedIn : https://www.linkedin.com/in/clement-girard-page
