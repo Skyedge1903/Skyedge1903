@@ -26,12 +26,16 @@
 
 ### LINKS
 
-A complex project based on geographical data : http://geomapi.webanimus.com/
+My companies : 
+  - https://webanimus.com/
+  - https://geomservices.com/
+  - https://3d.recipes/
+  - https://www.sofrelis.com/
 
-A Ethereum course : https://www.crypto.webanimus.com/
+My courses : 
+  - https://www.crypto.webanimus.com/
+  - https://www.quantum.webanimus.com/
 
-An electronic Ethereum node viewer : https://www.etsy.com/fr/listing/1356321652/visualiseur-de-portefeuille-crypto
-
-Code-based 3D object generation : https://www.leboncoin.fr/materiel_agricole/2357730097.htm
-
-A Quantum course : https://www.quantum.webanimus.com/
+My products : 
+  - https://www.etsy.com/fr/listing/1356321652/visualiseur-de-portefeuille-crypto
+  - https://www.leboncoin.fr/materiel_agricole/2357730097.htm
