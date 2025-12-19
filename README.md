@@ -3,7 +3,7 @@
 
 #### ❤️ Complex algorithmic problems and optimization
 
-#### ✉️ : clement.girard@webanimus.com
+#### ✉️ : clement.girard1903@gmail.com
 
 <a href="https://www.linkedin.com/in/clement-girard-page" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -27,15 +27,5 @@
 ### LINKS
 
 My companies : 
-  - https://webanimus.com/
   - https://geomservices.com/
   - https://3d.recipes/
-  - https://www.sofrelis.com/
-
-My courses : 
-  - https://www.crypto.webanimus.com/
-  - https://www.quantum.webanimus.com/
-
-My products : 
-  - https://www.etsy.com/fr/listing/1356321652/visualiseur-de-portefeuille-crypto
-  - https://www.leboncoin.fr/materiel_agricole/2357730097.htm
