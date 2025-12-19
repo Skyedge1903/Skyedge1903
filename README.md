@@ -20,9 +20,7 @@
 
 ### LINKS
 
-Visit my website :
-
-https://518.fr/
+Visit my website : https://518.fr/
 
 ✉️ : mailto:clement.girard1903@gmail.com
 🔗 : https://www.linkedin.com/in/clement-girard-page
