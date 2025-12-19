@@ -1,8 +1,7 @@
 
 # About Me:
 
-#### ❤️ Complex algorithmic problems and optimization
-#### ❤️ Electronics and robotics
+#### ❤️ Complex algorithmic problems and optimization / Electronics and robotics
 
 # 💻 Tech Stack:
 
