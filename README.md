@@ -3,10 +3,6 @@
 
 #### ❤️ Complex algorithmic problems and optimization
 
-<a href="https://www.linkedin.com/in/clement-girard-page" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
 # 💻 Tech Stack:
 
 ### LANGUAGES
@@ -28,4 +24,5 @@ Visit my website :
 
 https://518.fr/
 
-✉️ : clement.girard1903@gmail.com
+✉️ : mailto:clement.girard1903@gmail.com
+🔗 : https://www.linkedin.com/in/clement-girard-page
